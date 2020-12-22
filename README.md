@@ -1,2 +1,2 @@
-# Stock_Market_Prediction
+# Stock Market Prediction
 Predict stock market prices using lstm
